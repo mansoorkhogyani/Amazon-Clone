@@ -1,1 +1,6 @@
-This is the clone website of Amazon. I use HTML and CSS for creating this clnoe.This was my first project that I have done using HTML and CSS.
+Amazon Clone (HTML & CSS): 
+ A front-end Amazon homepage clone built using HTML and CSS. This project replicates the layout and design of the Amazon website. The goal of this project is to improve front-end development skills by recreating a real-world website interface.
+
+Technologies Used:
+ HTML5,
+  CSS3
